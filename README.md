@@ -5,6 +5,6 @@ My name is Henry Van Orden. I am currently studying Computer Science/Machine Lea
 ### Jan-Mar 2026: [Trivia Website](https://startup.triviadash.click)
   I learned about CSS, HTML, Javascript, Node, Git, AWS, MongoDB, and so much more 
 
-## Links 
+# Links 
 - [Resume](resume.pdf)
 - [Email Me](mailto:henryvanorden@gmail.com)
